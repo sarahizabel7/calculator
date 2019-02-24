@@ -2,4 +2,4 @@ This is a calculator app built with React Native.
 ___
 
 ## Screenshot
-![Android Screenshot](./screenshot_android.png)
+![Android Screenshot](./screenshot_android.png | width=100)
