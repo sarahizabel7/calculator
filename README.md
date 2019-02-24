@@ -4,4 +4,4 @@ ___
 ## Screenshot
 ![Android Screenshot](./screenshot_android.png)
 
-<a href="url"><img src="./screenshot_android.png" height="48" width="48" ></a>
+<a href="url"><img src="./screenshot_android.png" height="50%" width="50%" ></a>
